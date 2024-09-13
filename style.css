@@ -1,0 +1,81 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    
+    /* h1{
+    color: rgb(20, 19, 20);
+}
+body{
+    background-color: rgb(0, 137, 139);
+}
+
+#Testing{
+    color:rgb(66, 66, 140);
+}
+
+#Test{
+    color:rgb(66, 67, 140);
+}
+
+.class{
+    color: rgb(165, 42, 79);
+}  */
+#box{
+    background-color: rgb(21, 20, 21);
+    color: rgb(255, 255, 255);
+}
+.class{
+    background-color: rgb(216, 99, 20);
+    color: #4357a0;
+}
+/* h1,h2{
+    color: brown;
+} */
+
+button{
+    background-color: coral;
+}
+
+#one{
+    text-align: center;
+    text-decoration: overline;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+} 
+#two{
+    font-family: "cursive";
+}
+h1{
+    text-align: center;
+    text-decoration: green wavy underline;
+    font-weight: bolder;
+    font-family: "timenewroman";
+}
+
+#one{
+    font-size: 20px;
+    line-height: 35px;
+    text-transform: capitalize;
+   
+}
+#two {
+    font-size: 20px;
+}
+#three{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 30px;
+}
+
